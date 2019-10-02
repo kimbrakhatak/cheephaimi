@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siehoocoix.nanjingjs.org/sitemap.xml
